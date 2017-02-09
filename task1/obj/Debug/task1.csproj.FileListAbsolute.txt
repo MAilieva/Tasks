@@ -1,0 +1,6 @@
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\bin\Debug\task1.exe.config
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\bin\Debug\task1.exe
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\bin\Debug\task1.pdb
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\obj\Debug\task1.exe
+C:\Users\Marina\Documents\Visual Studio 2015\Projects\x8\task1\obj\Debug\task1.pdb

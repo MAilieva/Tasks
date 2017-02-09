@@ -1,0 +1,6 @@
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\bin\Debug\x8.exe.config
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\bin\Debug\x8.exe
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\bin\Debug\x8.pdb
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\obj\Debug\x8.csprojResolveAssemblyReference.cache
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\obj\Debug\x8.exe
+c:\users\marina\documents\visual studio 2015\Projects\x8\x8\obj\Debug\x8.pdb
